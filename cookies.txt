@@ -1,6 +1,8 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-localhost	TRUE	/	FALSE	1999999999	37d244d72e75bc81f20a18ea5fcb5d08	pc92kefuuu6097g9l8s309jng7
+localhost	TRUE	/	FALSE	1999999999	37d244d72e75bc81f20a18ea5fcb5d08	2pffngb66gsefik8uumu3cmvc2
 localhost	TRUE	/	FALSE	1999999999	ja_university_tpl	ja_university
-www.evatechsoft.com	TRUE	/	FALSE	1999999999	GEAR	local-527817425973ca81f6000888
+www.thehindu.com	TRUE	/	FALSE	1999999999	BIGipServerWEBPOOL_80	4054917130.20480.0000
+mrce.ac.in	TRUE	/	FALSE	1999999999	PHPSESSID	86488b2be63628f0b3ac01af833ebfed
+mriu.edu.in	TRUE	/	FALSE	1999999999	w3tc_referrer	http%3A%2F%2Flocalhost%2Fjac%2Findex.php%2Fgallery%2Fevents%2Fcultural
 

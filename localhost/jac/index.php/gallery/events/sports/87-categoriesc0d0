@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sports - Ravindra Degree College</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/jac/index.php/gallery/events/sports/87-categories</link>
+		<lastBuildDate>Mon, 30 Dec 2013 17:34:20 +0530</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/jac/index.php/gallery/events/sports/87-categories?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>jac@jac.com (jac)</managingEditor>
+	</channel>
+</rss>

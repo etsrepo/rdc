@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>All Departments - Ravindra Degree College</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/jac/index.php/all-departments</link>
+		<lastBuildDate>Mon, 30 Dec 2013 17:29:39 +0530</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/jac/index.php/all-departments?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>jac@jac.com (jac)</managingEditor>
+		<item>
+			<title>Geography</title>
+			<link>http://localhost/jac/index.php/departments/geography</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/departments/geography</guid>
+			<description><![CDATA[<p><span class="dropcap">G</span>eography ipsum dolor sit amet consectetuer suspendisse elit justo turpis tellus. Vestibulum nibh molestie nisl tempus maecenas mauris pretium.</p>
+
+]]></description>
+			<category>Departments</category>
+			<pubDate>Thu, 09 Aug 2012 13:20:47 +0530</pubDate>
+		</item>
+		<item>
+			<title>Humanities</title>
+			<link>http://localhost/jac/index.php/departments/humanities</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/departments/humanities</guid>
+			<description><![CDATA[<p><span class="dropcap">H</span>umanities tellus malesuada Sed urna eget mollis morbi fames mi penatibus lobortis. Accumsan et tincidunt et laoreet id Suspendisse rhoncus porttitor.</p>
+
+]]></description>
+			<category>Departments</category>
+			<pubDate>Thu, 09 Aug 2012 13:20:30 +0530</pubDate>
+		</item>
+		<item>
+			<title>Officer</title>
+			<link>http://localhost/jac/index.php/departments/officer</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/departments/officer</guid>
+			<description><![CDATA[<p><span class="dropcap">O</span>fficer neque In convallis congue tincidunt dolor faucibus sem habitasse magna integer. Enim aenean quis in pellentesque vestibulum curabitur.</p>
+
+]]></description>
+			<category>Departments</category>
+			<pubDate>Thu, 09 Aug 2012 13:20:14 +0530</pubDate>
+		</item>
+		<item>
+			<title>Finance</title>
+			<link>http://localhost/jac/index.php/departments/finance</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/departments/finance</guid>
+			<description><![CDATA[<p><span class="dropcap">F</span>inance vestibulum nibh molestie nisl tempus Maecenas mauris pretium Vestibulum tortor nulla. Nibh lacinia lacinia lobortis malesuada Nunc feugiat dolor In lobortis Curabitur.</p>
+
+]]></description>
+			<category>Departments</category>
+			<pubDate>Thu, 09 Aug 2012 13:20:01 +0530</pubDate>
+		</item>
+		<item>
+			<title>Technology</title>
+			<link>http://localhost/jac/index.php/departments/technology</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/departments/technology</guid>
+			<description><![CDATA[<p><span class="dropcap">T</span>echnology tellus malesuada Sed urna eget mollis morbi fames mi penatibus lobortis. Accumsan et tincidunt et laoreet id Suspendisse rhoncus porttitor Integer in.</p>
+
+]]></description>
+			<category>Departments</category>
+			<pubDate>Thu, 09 Aug 2012 13:19:41 +0530</pubDate>
+		</item>
+		<item>
+			<title>Economics</title>
+			<link>http://localhost/jac/index.php/departments/economics</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/departments/economics</guid>
+			<description><![CDATA[<p><span class="dropcap">E</span>conomics quisque id Nulla Phasellus semper elit fames a ipsum eget consequat. Congue nibh eros faucibus pulvinar wisi dolor Aenean non ligula at.</p>
+
+]]></description>
+			<category>Departments</category>
+			<pubDate>Thu, 09 Aug 2012 13:19:25 +0530</pubDate>
+		</item>
+	</channel>
+</rss>

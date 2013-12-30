@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Joomla Template for University and school websites - JA University - Ravindra Degree College</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/jac/index.php/80-categories/students-highlight</link>
+		<lastBuildDate>Mon, 30 Dec 2013 17:32:30 +0530</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/jac/index.php/80-categories/students-highlight?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>jac@jac.com (jac)</managingEditor>
+		<item>
+			<title>Student 1</title>
+			<link>http://localhost/jac/index.php/80-categories/students-highlight/151-student-1</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/80-categories/students-highlight/151-student-1</guid>
+			<description><![CDATA[<p><img src="http://localhost/jac/images/user_profile_picture.jpeg" alt="" /></p>]]></description>
+			<author>jac@jac.com (Super User)</author>
+			<category>Students Highlight</category>
+			<pubDate>Sat, 28 Dec 2013 16:21:58 +0530</pubDate>
+		</item>
+		<item>
+			<title>Student 2</title>
+			<link>http://localhost/jac/index.php/80-categories/students-highlight/152-student-2</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/80-categories/students-highlight/152-student-2</guid>
+			<description><![CDATA[<p><img src="http://localhost/jac/images/user_profile_picture.jpeg" alt="" /></p>]]></description>
+			<author>jac@jac.com (Super User)</author>
+			<category>Students Highlight</category>
+			<pubDate>Sat, 28 Dec 2013 16:22:13 +0530</pubDate>
+		</item>
+		<item>
+			<title>Student 3</title>
+			<link>http://localhost/jac/index.php/80-categories/students-highlight/153-student-3</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/80-categories/students-highlight/153-student-3</guid>
+			<description><![CDATA[<p><img src="http://localhost/jac/images/user_profile_picture.jpeg" alt="" /></p>]]></description>
+			<author>jac@jac.com (Super User)</author>
+			<category>Students Highlight</category>
+			<pubDate>Sat, 28 Dec 2013 16:22:30 +0530</pubDate>
+		</item>
+	</channel>
+</rss>

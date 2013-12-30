@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Joomla Template for University and school websites - JA University - Ravindra Degree College</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost"/>
+	<id>http://localhost/jac/index.php/80-categories/students-highlight</id>
+	<updated>2013-12-30T17:32:32+05:30</updated>
+	<author>
+		<name>jac</name>
+		<email>jac@jac.com</email>
+	</author>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/jac/index.php/80-categories/students-highlight?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Student 1</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/80-categories/students-highlight/151-student-1"/>
+		<published>2013-12-28T16:21:58+05:30</published>
+		<updated>2013-12-28T16:21:58+05:30</updated>
+		<id>http://localhost/jac/index.php/80-categories/students-highlight/151-student-1</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;images/user_profile_picture.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;images/user_profile_picture.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Students Highlight" />
+	</entry>
+	<entry>
+		<title>Student 2</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/80-categories/students-highlight/152-student-2"/>
+		<published>2013-12-28T16:22:13+05:30</published>
+		<updated>2013-12-28T16:22:13+05:30</updated>
+		<id>http://localhost/jac/index.php/80-categories/students-highlight/152-student-2</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;images/user_profile_picture.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;images/user_profile_picture.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Students Highlight" />
+	</entry>
+	<entry>
+		<title>Student 3</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/80-categories/students-highlight/153-student-3"/>
+		<published>2013-12-28T16:22:30+05:30</published>
+		<updated>2013-12-28T16:22:30+05:30</updated>
+		<id>http://localhost/jac/index.php/80-categories/students-highlight/153-student-3</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;images/user_profile_picture.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;images/user_profile_picture.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Students Highlight" />
+	</entry>
+</feed>

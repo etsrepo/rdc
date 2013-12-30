@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Events - Ravindra Degree College</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/jac/index.php/gallery/events/88-categories/events</link>
+		<lastBuildDate>Mon, 30 Dec 2013 17:31:01 +0530</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/jac/index.php/gallery/events/88-categories/events?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>jac@jac.com (jac)</managingEditor>
+		<item>
+			<title>Technical</title>
+			<link>http://localhost/jac/index.php/gallery/events/technical</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/gallery/events/technical</guid>
+			<description><![CDATA[]]></description>
+			<author>jac@jac.com (Super User)</author>
+			<category>Events</category>
+			<pubDate>Sat, 28 Dec 2013 11:11:35 +0530</pubDate>
+		</item>
+		<item>
+			<title>Events</title>
+			<link>http://localhost/jac/index.php/gallery/events</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/gallery/events</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetuer faucibus pede justo ut id. Penatibus vel scelerisque parturient faucibus Quisque magnis risus volutpat orci ipsum. Scelerisque malesuada egestas Nunc pede quis feugiat urna elit nibh mauris. At tempor ligula id nec sapien Morbi nibh tincidunt elit accumsan. Wisi fames a cursus ipsum Cras nunc consequat ut pede condimentum. Ut nulla vitae et nibh pretium Donec id Nullam hac porttitor. Cursus.</p>
+<p>Netus consequat sit felis Nulla sagittis lacinia commodo pede wisi id. Aliquam vitae neque dictum pede nibh porttitor Aenean ultrices Morbi nunc. Augue urna est eu iaculis sit vel semper magna Fusce morbi. Et enim turpis feugiat nibh lobortis habitasse Mauris at vitae vitae. Id Cras malesuada non nec et nonummy urna enim sed eleifend. Pede nibh condimentum nec nibh et accumsan felis Praesent mauris nunc. Nibh.</p>
+<p>Elit est id dui lacus scelerisque vel Aenean sit nisl sapien. Tellus tortor Praesent odio rhoncus at in et nunc Nunc Quisque. Lacus quis interdum urna vitae vel Nulla ac dui urna tellus. Vitae Nulla quis nec dictumst justo lacinia et et mus massa. Sed eu lacus interdum Phasellus nibh orci eget tincidunt Phasellus elit.</p>
+<p>Ipsum accumsan interdum Pellentesque Ut tortor vel Vestibulum Cras Suspendisse augue. Lorem Pellentesque In Nam ut fringilla et enim diam quis justo. Felis ut velit felis eu dui cursus pede lacinia scelerisque et. Nibh ligula Aenean Maecenas Curabitur ligula Vestibulum felis porttitor pede condimentum. At enim Phasellus fermentum cursus orci ut metus Curabitur Vestibulum Integer. Metus elit lorem eros fringilla tortor risus wisi.</p>]]></description>
+			<category>Events</category>
+			<pubDate>Tue, 21 Aug 2012 11:21:34 +0530</pubDate>
+		</item>
+		<item>
+			<title>Cultural</title>
+			<link>http://localhost/jac/index.php/gallery/events/cultural</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/gallery/events/cultural</guid>
+			<description><![CDATA[<p><img src="http://mrce.ac.in/wp-content/uploads/2011/09/1.jpg" alt="" width="800" height="533" /></p>
+<p><img src="http://www.jnujaipur.ac.in/Album_Photos/JNU_CltureEvent_1.jpg" alt="" width="800" height="533" /></p>
+<p><img src="http://mrce.ac.in/wp-content/gallery/cultural-committee-organized-intra-college-events/8.jpg" alt="" width="800" height="533" /></p>
+<p><img src="http://mriu.edu.in/wp-content/uploads/2013/03/IMG_15131.jpg" alt="" width="800" height="533" /></p>
+<p><img src="http://mriu.edu.in/wp-content/uploads/2013/03/IMG_15651.jpg" alt="" width="800" height="533" /></p>
+<p><img src="http://e-paolive.net/galleries/images/Science_Education/Student/2012/DBC_1022_1/DBC_Maram_20121022_1_21.jpg" alt="" width="800" height="533" /></p>]]></description>
+			<author>jac@jac.com (Joomla!)</author>
+			<category>Events</category>
+			<pubDate>Sat, 01 Jan 2011 04:30:01 +0530</pubDate>
+		</item>
+		<item>
+			<title>Fests</title>
+			<link>http://localhost/jac/index.php/gallery/events/fests</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/gallery/events/fests</guid>
+			<description><![CDATA[<p>If this is your first Joomla! site or your first web site, you have come to the right place. Joomla will help you get your website up and running quickly and easily.</p>
+<p>Start off using your site by logging in using the administrator account you created when you installed Joomla.</p>
+]]></description>
+			<category>Events</category>
+			<pubDate>Sat, 01 Jan 2011 04:30:01 +0530</pubDate>
+		</item>
+		<item>
+			<title>Sports</title>
+			<link>http://localhost/jac/index.php/gallery/events/sports</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/gallery/events/sports</guid>
+			<description><![CDATA[<p><img src="http://www.thehindu.com/multimedia/dynamic/01317/HY02BHAVAN_1317179f.jpg" alt="" /></p>
+<p><img src="http://www.thehindu.com/multimedia/dynamic/00509/TH23_VOLLEYBALL_LEA_509463f.jpg" alt="" width="636" height="376" /></p>
+<p><img src="http://www.thehindu.com/multimedia/dynamic/01104/05VZVIJREG1CRICKET_1104315f.jpg" alt="" width="636" height="376" /></p>
+<p> </p>]]></description>
+			<category>Events</category>
+			<pubDate>Sat, 01 Jan 2011 04:30:01 +0530</pubDate>
+		</item>
+	</channel>
+</rss>

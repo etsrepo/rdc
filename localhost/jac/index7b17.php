@@ -5,7 +5,7 @@
 	<subtitle type="text"></subtitle>
 	<link rel="alternate" type="text/html" href="http://localhost"/>
 	<id>http://localhost/jac/index.php</id>
-	<updated>2013-12-30T16:48:46+05:30</updated>
+	<updated>2013-12-30T17:23:29+05:30</updated>
 	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
 	<link rel="self" type="application/atom+xml" href="http://localhost/jac/index.php?format=feed&amp;type=atom"/>
 	<entry>

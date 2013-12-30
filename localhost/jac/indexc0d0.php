@@ -5,7 +5,7 @@
 		<title>Joomla Template for University and school websites - JA University - Ravindra Degree College</title>
 		<description><![CDATA[]]></description>
 		<link>http://localhost/jac/index.php/component/content/featured</link>
-		<lastBuildDate>Mon, 30 Dec 2013 16:48:44 +0530</lastBuildDate>
+		<lastBuildDate>Mon, 30 Dec 2013 17:23:27 +0530</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="http://localhost/jac/index.php?format=feed&amp;type=rss"/>
 		<language>en-gb</language>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News and Events - Ravindra Degree College</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/jac/index.php/news-and-events</link>
+		<lastBuildDate>Mon, 30 Dec 2013 17:29:35 +0530</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/jac/index.php/news-and-events?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>jac@jac.com (jac)</managingEditor>
+		<item>
+			<title>Convocation</title>
+			<link>http://localhost/jac/index.php/news-and-events/157-convocation</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/news-and-events/157-convocation</guid>
+			<description><![CDATA[<p><span style="line-height: 1.3em;"><img src="http://localhost/jac/images/convocation.jpg" alt="" width="244" height="224" />This is an event where the students are given their bachelors degree formally. It is usually conducted in the month of July. They are invited through their college e-mail IDs. In some universities for example, the term “Convocation” refers specifically to the ent</span>irety of the alumni of the university, which function as one of the university’s representative bodies.</p>]]></description>
+			<author>jac@jac.com (Super User)</author>
+			<category>News and Events</category>
+			<pubDate>Sat, 28 Dec 2013 16:47:26 +0530</pubDate>
+		</item>
+		<item>
+			<title>Marvelous Electronic Ventura - 2K13</title>
+			<link>http://localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13</link>
+			<guid isPermaLink="true">http://localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13</guid>
+			<description><![CDATA[<ul style="font-family: Arial, Helvetica, sans-serif; text-align: justify; color: #003333; font-size: 13px; line-height: 25px; position: absolute; margin: 0px; padding: 0px; top: 0px;">
+<li style="margin: 0px; padding: 0px; height: 295px;"><img src="http://localhost/jac/images/services_front.jpg" alt="" width="159" height="106" /></li>
+<li style="margin: 0px; padding: 0px; height: 295px;">Marvelous Electronic Ventura - 2K13 <span style="line-height: 23px;">The Department of E.C.E has organized a 2-hours program on "Electronic Ventura-2K13" on 22nd July, 2013(Monday). The resource person is Ms. S. Fouzia Sultana, Asst. Professor, dept of ECE, RCEW.</span></li>
+</ul>]]></description>
+			<author>jac@jac.com (Super User)</author>
+			<category>News and Events</category>
+			<pubDate>Sat, 28 Dec 2013 16:39:20 +0530</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Technical  - Ravindra Degree College</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost"/>
+	<id>http://localhost/jac/index.php/gallery/events/technical/88-categories/events</id>
+	<updated>2013-12-30T17:37:00+05:30</updated>
+	<author>
+		<name>jac</name>
+		<email>jac@jac.com</email>
+	</author>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/jac/index.php/gallery/events/technical/88-categories/events?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Technical</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/events/technical"/>
+		<published>2013-12-28T11:11:35+05:30</published>
+		<updated>2013-12-28T11:11:35+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/events/technical</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<category term="Events" />
+	</entry>
+	<entry>
+		<title>Events</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/events"/>
+		<published>2012-08-21T11:21:34+05:30</published>
+		<updated>2012-08-21T11:21:34+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/events</id>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet consectetuer faucibus pede justo ut id. Penatibus vel scelerisque parturient faucibus Quisque magnis risus volutpat orci ipsum. Scelerisque malesuada egestas Nunc pede quis feugiat urna elit nibh mauris. At tempor ligula id nec sapien Morbi nibh tincidunt elit accumsan. Wisi fames a cursus ipsum Cras nunc consequat ut pede condimentum. Ut nulla vitae et nibh pretium Donec id Nullam hac porttitor. Cursus.&lt;/p&gt;
+&lt;p&gt;Netus consequat sit felis Nulla sagittis lacinia commodo pede wisi id. Aliquam vitae neque dictum pede nibh porttitor Aenean ultrices Morbi nunc. Augue urna est eu iaculis sit vel semper magna Fusce morbi. Et enim turpis feugiat nibh lobortis habitasse Mauris at vitae vitae. Id Cras malesuada non nec et nonummy urna enim sed eleifend. Pede nibh condimentum nec nibh et accumsan felis Praesent mauris nunc. Nibh.&lt;/p&gt;
+&lt;p&gt;Elit est id dui lacus scelerisque vel Aenean sit nisl sapien. Tellus tortor Praesent odio rhoncus at in et nunc Nunc Quisque. Lacus quis interdum urna vitae vel Nulla ac dui urna tellus. Vitae Nulla quis nec dictumst justo lacinia et et mus massa. Sed eu lacus interdum Phasellus nibh orci eget tincidunt Phasellus elit.&lt;/p&gt;
+&lt;p&gt;Ipsum accumsan interdum Pellentesque Ut tortor vel Vestibulum Cras Suspendisse augue. Lorem Pellentesque In Nam ut fringilla et enim diam quis justo. Felis ut velit felis eu dui cursus pede lacinia scelerisque et. Nibh ligula Aenean Maecenas Curabitur ligula Vestibulum felis porttitor pede condimentum. At enim Phasellus fermentum cursus orci ut metus Curabitur Vestibulum Integer. Metus elit lorem eros fringilla tortor risus wisi.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet consectetuer faucibus pede justo ut id. Penatibus vel scelerisque parturient faucibus Quisque magnis risus volutpat orci ipsum. Scelerisque malesuada egestas Nunc pede quis feugiat urna elit nibh mauris. At tempor ligula id nec sapien Morbi nibh tincidunt elit accumsan. Wisi fames a cursus ipsum Cras nunc consequat ut pede condimentum. Ut nulla vitae et nibh pretium Donec id Nullam hac porttitor. Cursus.&lt;/p&gt;
+&lt;p&gt;Netus consequat sit felis Nulla sagittis lacinia commodo pede wisi id. Aliquam vitae neque dictum pede nibh porttitor Aenean ultrices Morbi nunc. Augue urna est eu iaculis sit vel semper magna Fusce morbi. Et enim turpis feugiat nibh lobortis habitasse Mauris at vitae vitae. Id Cras malesuada non nec et nonummy urna enim sed eleifend. Pede nibh condimentum nec nibh et accumsan felis Praesent mauris nunc. Nibh.&lt;/p&gt;
+&lt;p&gt;Elit est id dui lacus scelerisque vel Aenean sit nisl sapien. Tellus tortor Praesent odio rhoncus at in et nunc Nunc Quisque. Lacus quis interdum urna vitae vel Nulla ac dui urna tellus. Vitae Nulla quis nec dictumst justo lacinia et et mus massa. Sed eu lacus interdum Phasellus nibh orci eget tincidunt Phasellus elit.&lt;/p&gt;
+&lt;p&gt;Ipsum accumsan interdum Pellentesque Ut tortor vel Vestibulum Cras Suspendisse augue. Lorem Pellentesque In Nam ut fringilla et enim diam quis justo. Felis ut velit felis eu dui cursus pede lacinia scelerisque et. Nibh ligula Aenean Maecenas Curabitur ligula Vestibulum felis porttitor pede condimentum. At enim Phasellus fermentum cursus orci ut metus Curabitur Vestibulum Integer. Metus elit lorem eros fringilla tortor risus wisi.&lt;/p&gt;</content>
+		<category term="Events" />
+	</entry>
+	<entry>
+		<title>Cultural</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/events/cultural"/>
+		<published>2011-01-01T04:30:01+05:30</published>
+		<updated>2011-01-01T04:30:01+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/events/cultural</id>
+		<author>
+			<name>Joomla!</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://mrce.ac.in/wp-content/uploads/2011/09/1.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jnujaipur.ac.in/Album_Photos/JNU_CltureEvent_1.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mrce.ac.in/wp-content/gallery/cultural-committee-organized-intra-college-events/8.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mriu.edu.in/wp-content/uploads/2013/03/IMG_15131.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mriu.edu.in/wp-content/uploads/2013/03/IMG_15651.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://e-paolive.net/galleries/images/Science_Education/Student/2012/DBC_1022_1/DBC_Maram_20121022_1_21.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://mrce.ac.in/wp-content/uploads/2011/09/1.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jnujaipur.ac.in/Album_Photos/JNU_CltureEvent_1.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mrce.ac.in/wp-content/gallery/cultural-committee-organized-intra-college-events/8.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mriu.edu.in/wp-content/uploads/2013/03/IMG_15131.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://mriu.edu.in/wp-content/uploads/2013/03/IMG_15651.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://e-paolive.net/galleries/images/Science_Education/Student/2012/DBC_1022_1/DBC_Maram_20121022_1_21.jpg&quot; alt=&quot;&quot; width=&quot;800&quot; height=&quot;533&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Events" />
+	</entry>
+	<entry>
+		<title>Fests</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/events/fests"/>
+		<published>2011-01-01T04:30:01+05:30</published>
+		<updated>2011-01-01T04:30:01+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/events/fests</id>
+		<author>
+			<name>Joomla!</name>
+		</author>
+		<summary type="html">&lt;p&gt;If this is your first Joomla! site or your first web site, you have come to the right place. Joomla will help you get your website up and running quickly and easily.&lt;/p&gt;
+&lt;p&gt;Start off using your site by logging in using the administrator account you created when you installed Joomla.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;If this is your first Joomla! site or your first web site, you have come to the right place. Joomla will help you get your website up and running quickly and easily.&lt;/p&gt;
+&lt;p&gt;Start off using your site by logging in using the administrator account you created when you installed Joomla.&lt;/p&gt;
+</content>
+		<category term="Events" />
+	</entry>
+	<entry>
+		<title>Sports</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/events/sports"/>
+		<published>2011-01-01T04:30:01+05:30</published>
+		<updated>2011-01-01T04:30:01+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/events/sports</id>
+		<author>
+			<name>Admin</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.thehindu.com/multimedia/dynamic/01317/HY02BHAVAN_1317179f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.thehindu.com/multimedia/dynamic/00509/TH23_VOLLEYBALL_LEA_509463f.jpg&quot; alt=&quot;&quot; width=&quot;636&quot; height=&quot;376&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.thehindu.com/multimedia/dynamic/01104/05VZVIJREG1CRICKET_1104315f.jpg&quot; alt=&quot;&quot; width=&quot;636&quot; height=&quot;376&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.thehindu.com/multimedia/dynamic/01317/HY02BHAVAN_1317179f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.thehindu.com/multimedia/dynamic/00509/TH23_VOLLEYBALL_LEA_509463f.jpg&quot; alt=&quot;&quot; width=&quot;636&quot; height=&quot;376&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.thehindu.com/multimedia/dynamic/01104/05VZVIJREG1CRICKET_1104315f.jpg&quot; alt=&quot;&quot; width=&quot;636&quot; height=&quot;376&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Events" />
+	</entry>
+</feed>

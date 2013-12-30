@@ -1,16 +1,293 @@
-HTTrack3.47-27+htsswf+htsjava launched on Mon, 30 Dec 2013 16:48:38 at http://localhost/jac/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwr2%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://localhost/jac/ -O1 "C:\My Web Sites\jav" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.47-27+htsswf+htsjava launched on Mon, 30 Dec 2013 17:23:17 at http://localhost/jac/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr5%e5C2%Ps2u1%s%uN0%I0p7DaK0c8H0%kf2A25000%c10#L100000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" http://localhost/jac/ -O1 "C:\My Web Sites\ttt\jac" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-16:51:45	Error: 	"Not Found" (404) at link localhost/jac/index.php/departments (from localhost/jac/)
-16:51:46	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
-16:51:49	Error: 	"Forbidden" (403) at link www.joomla.org/ (from localhost/jac/)
-16:51:50	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
-16:51:52	Error: 	"Internal Server Error" (500) after 2 retries at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:23:17	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+17:27:04	Error: 	"Not Found" (404) at link localhost/jac/index.php/departments (from localhost/jac/)
+17:29:11	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:29:45	Warning: 	Link localhost/jac/index.php/aboutus?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:29:59	Warning: 	Link localhost/jac/index.php/aboutus/correspondent?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:10	Warning: 	Link localhost/jac/index.php/aboutus/chairman?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:22	Warning: 	Link localhost/jac/index.php/aboutus/principal?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:22	Warning: 	Link localhost/jac/index.php/aboutus/vice-principal?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:31	Warning: 	Link localhost/jac/index.php/aboutus/chancellor?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/accounting?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/economics?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/technology?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/officer?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/finance?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/humanities?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/departments/geography?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:44	Warning: 	Link localhost/jac/index.php/gallery?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:30:57	Warning: 	Link localhost/jac/index.php/gallery/events?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:07	Warning: 	Link localhost/jac/index.php/gallery/events/cultural?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:13	Warning: 	Link localhost/jac/index.php/gallery/events/sports?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:20	Warning: 	Link localhost/jac/index.php/gallery/events/fests?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:26	Warning: 	Link localhost/jac/index.php/gallery/events/technical?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:33	Warning: 	Link localhost/jac/index.php/gallery/infrastructure?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:42	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/college?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:50	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/labs?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:31:59	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/office?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:32:07	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/library?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:32:17	Warning: 	Link localhost/jac/index.php/news-and-events/157-convocation?tmpl=component&print=1&layout=default&page= not scanned (follow robots meta tag)
+17:32:17	Warning: 	Link localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13?tmpl=component&print=1&layout=default&page= not scanned (follow robots meta tag)
+17:32:17	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:32:35	Warning: 	Link localhost/jac/index.php/aboutus/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:32:48	Warning: 	Link localhost/jac/index.php/aboutus/correspondent/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:33:03	Warning: 	Link localhost/jac/index.php/aboutus/chairman/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:33:16	Warning: 	Link localhost/jac/index.php/aboutus/vice-principal/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:33:28	Warning: 	Link localhost/jac/index.php/aboutus/chancellor/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:33:42	Warning: 	Link localhost/jac/index.php/gallery/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:33:54	Warning: 	Link localhost/jac/index.php/gallery/89-categories/articles/71-welcome-to-ravindra-degree-college?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:34:52	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:34:52	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:34:52	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/labs/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:34:52	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/office/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:34:52	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/library/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:34:52	Error: 	"Internal Server Error" (500) after 2 retries at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:34:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_1aae6.js
+17:35:00	Warning: 	HTML file (18828 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus
+17:35:04	Warning: 	HTML file (13466 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/?id=91&Itemid=541
+17:35:08	Warning: 	HTML file (18288 bytes) retransferred due to lack of cache: localhost/jac/index.php/news-and-events/157-convocation
+17:35:12	Warning: 	HTML file (18575 bytes) retransferred due to lack of cache: localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13
+17:35:16	Warning: 	HTML file (852 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535
+17:35:17	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:35:18	Warning: 	HTML file (42830 bytes) retransferred due to lack of cache: localhost/jac/index.php/81-categories/courses/82-biology-degrees
+17:35:23	Warning: 	HTML file (42682 bytes) retransferred due to lack of cache: localhost/jac/index.php/80-categories/students-highlight/154-student-4
+17:35:28	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=495&format=opensearch
+17:35:28	Error: 	"Not Found" (404) at link localhost/jac/templates/ja_university/images/corner-br.gif (from localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_7fbd0.css)
+17:35:28	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=500&format=opensearch
+17:35:28	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=501&format=opensearch
+17:35:28	Error: 	"Not Found" (404) at link localhost/jac/templates/ja_university/images/corner-bl.gif (from localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_7fbd0.css)
+17:35:28	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=502&format=opensearch
+17:35:28	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=503&format=opensearch
+17:35:28	Error: 	"Not Found" (404) at link localhost/jac/templates/ja_university/images/corner-tr.gif (from localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_7fbd0.css)
+17:35:28	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=553&format=opensearch
+17:35:29	Error: 	"Not Found" (404) at link localhost/jac/templates/ja_university/images/corner-tl.gif (from localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_7fbd0.css)
+17:35:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_fac46.js
+17:35:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_a11ab.js
+17:35:32	Error: 	"Not Found" (404) at link localhost/jac/templates/ja_university/images/stars.png (from localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_7fbd0.css)
+17:35:33	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=542&format=opensearch
+17:35:33	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=543&format=opensearch
+17:35:33	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=544&format=opensearch
+17:35:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_b62c6.css
+17:35:34	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=546&format=opensearch
+17:35:35	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=545&format=opensearch
+17:35:35	Warning: 	HTML file (4533 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus?tmpl=component&print=1&page=
+17:35:37	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=547&format=opensearch
+17:35:37	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=548&format=opensearch
+17:35:38	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=499&format=opensearch
+17:35:39	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=517&format=opensearch
+17:35:39	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=518&format=opensearch
+17:35:39	Warning: 	Link localhost/jac/index.php/aboutus?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:35:40	Warning: 	HTML file (2787 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/correspondent?tmpl=component&print=1&page=
+17:35:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_31b26.js
+17:35:43	Warning: 	Link localhost/jac/index.php/aboutus/correspondent?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:35:44	Warning: 	HTML file (2700 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/chairman?tmpl=component&print=1&page=
+17:35:44	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=519&format=opensearch
+17:35:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_9f050.js
+17:35:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.thehindu.com/multimedia/dynamic/01317/HY02BHAVAN_1317179f.jpg
+17:35:46	Warning: 	Link localhost/jac/index.php/aboutus/chairman?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:35:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.thehindu.com/multimedia/dynamic/00509/TH23_VOLLEYBALL_LEA_509463f.jpg
+17:35:46	Warning: 	HTML file (2549 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/principal?tmpl=component&print=1&page=
+17:35:47	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=520&format=opensearch
+17:35:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.thehindu.com/multimedia/dynamic/01104/05VZVIJREG1CRICKET_1104315f.jpg
+17:35:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_f1c04.js
+17:35:48	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=521&format=opensearch
+17:35:50	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=615&format=opensearch
+17:35:50	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=616&format=opensearch
+17:35:50	Warning: 	Link localhost/jac/index.php/aboutus/principal?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:35:52	Warning: 	HTML file (2736 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/vice-principal?tmpl=component&print=1&page=
+17:35:52	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=617&format=opensearch
+17:35:52	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=618&format=opensearch
+17:35:55	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=619&format=opensearch
+17:35:55	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=498&format=opensearch
+17:35:55	Warning: 	Link localhost/jac/index.php/aboutus/vice-principal?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:35:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_9ede3.css
+17:35:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_90562.js
+17:35:59	Warning: 	HTML file (629 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?id=91&format=opensearch
+17:35:59	Warning: 	HTML file (2889 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/chancellor?tmpl=component&print=1&page=
+17:35:59	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=470&catid=79&id=157&format=opensearch
+17:36:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_d7d93.js
+17:36:02	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=470&catid=79&id=156&format=opensearch
+17:36:03	Warning: 	Link localhost/jac/index.php/aboutus/chancellor?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:03	Warning: 	HTML file (5028 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/accounting?tmpl=component&print=1&page=
+17:36:04	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=82&format=opensearch
+17:36:05	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=84&format=opensearch
+17:36:06	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=86&format=opensearch
+17:36:06	Warning: 	Link localhost/jac/index.php/departments/accounting?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:06	Warning: 	HTML file (5026 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/economics?tmpl=component&print=1&page=
+17:36:08	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=83&format=opensearch
+17:36:08	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=85&format=opensearch
+17:36:09	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=87&format=opensearch
+17:36:09	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=88&format=opensearch
+17:36:09	Warning: 	Link localhost/jac/index.php/departments/economics?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:11	Warning: 	HTML file (5045 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/technology?tmpl=component&print=1&page=
+17:36:11	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=81&id=89&format=opensearch
+17:36:12	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=80&id=155&format=opensearch
+17:36:13	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=80&id=154&format=opensearch
+17:36:13	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=80&id=153&format=opensearch
+17:36:15	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=80&id=152&format=opensearch
+17:36:15	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&catid=80&id=151&format=opensearch
+17:36:15	Warning: 	Link localhost/jac/index.php/departments/technology?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:16	Warning: 	HTML file (5014 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/officer?tmpl=component&print=1&page=
+17:36:17	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=470&format=opensearch
+17:36:21	Warning: 	HTML file (634 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=475&format=opensearch
+17:36:22	Warning: 	Link localhost/jac/index.php/departments/officer?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:22	Warning: 	HTML file (5047 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/finance?tmpl=component&print=1&page=
+17:36:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_d3891.js
+17:36:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_47ce8.js
+17:36:25	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=495&id=89&format=opensearch
+17:36:27	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=500&id=89&format=opensearch
+17:36:27	Warning: 	Link localhost/jac/index.php/departments/finance?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/89-categories/articles?format=feed&type=rss
+17:36:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/89-categories/articles?format=feed&type=atom
+17:36:29	Warning: 	HTML file (5034 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/humanities?tmpl=component&print=1&page=
+17:36:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/correspondent/89-categories/articles?format=feed&type=rss
+17:36:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/correspondent/89-categories/articles?format=feed&type=atom
+17:36:32	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=501&id=89&format=opensearch
+17:36:33	Warning: 	Link localhost/jac/index.php/departments/humanities?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/chairman/89-categories/articles?format=feed&type=rss
+17:36:34	Warning: 	HTML file (5048 bytes) retransferred due to lack of cache: localhost/jac/index.php/departments/geography?tmpl=component&print=1&page=
+17:36:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/chairman/89-categories/articles?format=feed&type=atom
+17:36:36	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=503&id=89&format=opensearch
+17:36:36	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=503&catid=89&id=149&format=opensearch
+17:36:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/vice-principal/89-categories/articles?format=feed&type=rss
+17:36:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/vice-principal/89-categories/articles?format=feed&type=atom
+17:36:38	Warning: 	Link localhost/jac/index.php/departments/geography?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:38	Warning: 	HTML file (4267 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery?tmpl=component&print=1&page=
+17:36:39	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=553&id=89&format=opensearch
+17:36:40	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=499&id=89&format=opensearch
+17:36:42	Warning: 	HTML file (657 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=499&catid=89&id=71&format=opensearch
+17:36:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/chancellor/89-categories/articles?format=feed&type=rss
+17:36:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/aboutus/chancellor/89-categories/articles?format=feed&type=atom
+17:36:44	Warning: 	Link localhost/jac/index.php/gallery?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:45	Warning: 	HTML file (4303 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events?tmpl=component&print=1&page=
+17:36:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/89-categories/articles?format=feed&type=rss
+17:36:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/89-categories/articles?format=feed&type=atom
+17:36:46	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=517&id=88&format=opensearch
+17:36:48	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=518&id=88&format=opensearch
+17:36:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/events/88-categories/events?format=feed&type=atom
+17:36:51	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=519&id=88&format=opensearch
+17:36:51	Warning: 	Link localhost/jac/index.php/gallery/events?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:36:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/events/cultural/88-categories/events?format=feed&type=atom
+17:36:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_7a3b5.css
+17:36:54	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=520&id=88&format=opensearch
+17:36:55	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=521&id=88&format=opensearch
+17:36:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/events/sports/88-categories/events?format=feed&type=atom
+17:36:58	Warning: 	HTML file (3463 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/cultural?tmpl=component&print=1&page=
+17:37:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/events/fests/88-categories/events?format=feed&type=atom
+17:37:00	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=615&id=89&format=opensearch
+17:37:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/events/technical/88-categories/events?format=feed&type=atom
+17:37:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/89-categories/articles?format=feed&type=rss
+17:37:02	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=616&id=89&format=opensearch
+17:37:04	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=617&id=89&format=opensearch
+17:37:04	Warning: 	Link localhost/jac/index.php/gallery/events/cultural?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/89-categories/articles?format=feed&type=atom
+17:37:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles?format=feed&type=atom
+17:37:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles?format=feed&type=rss
+17:37:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/labs/89-categories/articles?format=feed&type=rss
+17:37:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_5a2bc.css
+17:37:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/labs/89-categories/articles?format=feed&type=atom
+17:37:09	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=618&id=89&format=opensearch
+17:37:10	Warning: 	HTML file (3078 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/sports?tmpl=component&print=1&page=
+17:37:10	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=619&id=89&format=opensearch
+17:37:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/office/89-categories/articles?format=feed&type=rss
+17:37:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/office/89-categories/articles?format=feed&type=atom
+17:37:13	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&id=87&format=opensearch
+17:37:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/library/89-categories/articles?format=feed&type=atom
+17:37:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/gallery/infrastructure/library/89-categories/articles?format=feed&type=rss
+17:37:15	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&id=81&format=opensearch
+17:37:15	Warning: 	Link localhost/jac/index.php/gallery/events/sports?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=css&jat3file=t3-assets%2Fcss_120a7.css
+17:37:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php?jat3action=gzip&jat3type=js&jat3file=t3-assets%2Fjs_60942.js
+17:37:19	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=435&id=80&format=opensearch
+17:37:19	Warning: 	HTML file (4474 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/fests?tmpl=component&print=1&page=
+17:37:20	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=495&catid=89&id=149&format=opensearch
+17:37:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): localhost/jac/index.php/81-categories/courses?format=feed&type=atom
+17:37:23	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=495&id=87&format=opensearch
+17:37:24	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=500&catid=89&id=149&format=opensearch
+17:37:24	Warning: 	Link localhost/jac/index.php/gallery/events/fests?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:25	Warning: 	HTML file (2714 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/technical?tmpl=component&print=1&page=
+17:37:26	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=500&id=87&format=opensearch
+17:37:28	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=501&catid=89&id=149&format=opensearch
+17:37:30	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=501&id=87&format=opensearch
+17:37:30	Warning: 	Link localhost/jac/index.php/gallery/events/technical?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:31	Warning: 	HTML file (4347 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure?tmpl=component&print=1&page=
+17:37:31	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=503&id=87&format=opensearch
+17:37:32	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=553&catid=89&id=149&format=opensearch
+17:37:37	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=553&id=87&format=opensearch
+17:37:37	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=499&catid=89&id=149&format=opensearch
+17:37:37	Warning: 	Link localhost/jac/index.php/gallery/infrastructure?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:37	Warning: 	HTML file (4902 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/college?tmpl=component&print=1&page=
+17:37:38	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=499&id=87&format=opensearch
+17:37:42	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=517&id=87&format=opensearch
+17:37:44	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=518&id=87&format=opensearch
+17:37:44	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/college?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:47	Warning: 	HTML file (4887 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/labs?tmpl=component&print=1&page=
+17:37:48	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=519&id=87&format=opensearch
+17:37:50	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=520&id=87&format=opensearch
+17:37:51	Warning: 	HTML file (644 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=521&id=87&format=opensearch
+17:37:52	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=618&catid=89&id=149&format=opensearch
+17:37:52	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/labs?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:54	Warning: 	HTML file (4897 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/office?tmpl=component&print=1&page=
+17:37:56	Warning: 	HTML file (658 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?Itemid=619&catid=89&id=149&format=opensearch
+17:37:56	Warning: 	HTML file (651 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/search/?limitstart=0&Itemid=475&format=opensearch
+17:37:57	Warning: 	HTML file (852 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535
+17:37:59	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/office?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:37:59	Warning: 	HTML file (2849 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/library?tmpl=component&print=1&page=
+17:38:01	Warning: 	Link localhost/jac/index.php/gallery/infrastructure/library?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:38:01	Error: 	"Not Found" (404) at link localhost/jac/images/sampledata/masshead/mh-1.jpg (from localhost/jac/index.php/contact)
+17:38:01	Warning: 	HTML file (12355 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/?id=91
+17:38:04	Warning: 	HTML file (3232 bytes) retransferred due to lack of cache: localhost/jac/index.php/news-and-events/157-convocation?tmpl=component&print=1&layout=default&page=
+17:38:06	Warning: 	Link localhost/jac/index.php/news-and-events/157-convocation?tmpl=component&print=1&layout=default&page= not scanned (follow robots meta tag)
+17:38:06	Warning: 	HTML file (3491 bytes) retransferred due to lack of cache: localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13?tmpl=component&print=1&layout=default&page=
+17:38:08	Warning: 	Link localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13?tmpl=component&print=1&layout=default&page= not scanned (follow robots meta tag)
+17:38:08	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:38:08	Warning: 	HTML file (42489 bytes) retransferred due to lack of cache: localhost/jac/index.php/87-categories
+17:38:08	Warning: 	HTML file (852 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535
+17:38:12	Warning: 	HTML file (43234 bytes) retransferred due to lack of cache: localhost/jac/index.php/80-categories/students-highlight
+17:38:16	Warning: 	HTML file (18585 bytes) retransferred due to lack of cache: localhost/jac/index.php/all-departments?start=6
+17:38:18	Warning: 	HTML file (17723 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/89-categories/articles/149-administration
+17:38:21	Warning: 	HTML file (16642 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/correspondent/89-categories/articles/149-administration
+17:38:24	Warning: 	HTML file (14669 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/chairman/89-categories/articles/149-administration
+17:38:26	Warning: 	HTML file (2838 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/vice-principal/89-categories/articles/149-administration?tmpl=component&print=1&page=
+17:38:28	Warning: 	Link localhost/jac/index.php/aboutus/vice-principal/89-categories/articles/149-administration?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:38:28	Warning: 	HTML file (34001 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/chancellor/89-categories/articles/149-administration
+17:38:31	Warning: 	HTML file (14344 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/89-categories/articles/149-administration
+17:38:33	Warning: 	HTML file (4135 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/89-categories/articles/71-welcome-to-ravindra-degree-college?tmpl=component&print=1&page=
+17:38:35	Warning: 	Link localhost/jac/index.php/gallery/89-categories/articles/71-welcome-to-ravindra-degree-college?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+17:38:35	Warning: 	HTML file (17479 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/87-categories
+17:38:40	Warning: 	HTML file (14372 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/cultural/87-categories
+17:38:46	Warning: 	HTML file (17382 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/sports/87-categories
+17:38:51	Warning: 	HTML file (16066 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/fests/87-categories
+17:38:56	Warning: 	HTML file (16500 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/technical/87-categories
+17:38:59	Warning: 	HTML file (13821 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/89-categories/articles/149-administration
+17:39:01	Warning: 	HTML file (13957 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles/149-administration
+17:39:04	Warning: 	HTML file (13954 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/labs/89-categories/articles/149-administration
+17:39:06	Warning: 	HTML file (13956 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/office/89-categories/articles/149-administration
+17:39:08	Warning: 	HTML file (13957 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/infrastructure/library/89-categories/articles/149-administration
+17:39:11	Warning: 	HTML file (23755 bytes) retransferred due to lack of cache: localhost/jac/index.php/all-departments?limitstart=0
+17:39:13	Warning: 	HTML file (33072 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/81-categories/courses
+17:39:16	Warning: 	HTML file (32205 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/correspondent/81-categories/courses
+17:39:19	Warning: 	HTML file (30147 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/chairman/81-categories/courses
+17:39:21	Warning: 	HTML file (33025 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/vice-principal/81-categories/courses
+17:39:24	Warning: 	HTML file (49495 bytes) retransferred due to lack of cache: localhost/jac/index.php/aboutus/chancellor/81-categories/courses
+17:39:29	Warning: 	HTML file (29693 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/81-categories/courses
+17:39:32	Warning: 	HTML file (31362 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/81-categories/courses
+17:39:35	Warning: 	HTML file (28360 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/cultural/81-categories/courses
+17:39:38	Warning: 	HTML file (31372 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/sports/81-categories/courses
+17:39:41	Warning: 	HTML file (30039 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/fests/81-categories/courses
+17:39:45	Warning: 	HTML file (30433 bytes) retransferred due to lack of cache: localhost/jac/index.php/gallery/events/technical/81-categories/courses
+17:39:47	Warning: 	Retry after error 500 (Internal Server Error) at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:39:47	Warning: 	HTML file (852 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535
+17:39:49	Error: 	"Internal Server Error" (500) after 2 retries at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
+17:39:49	Warning: 	HTML file (852 bytes) retransferred due to lack of cache: localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535
+17:39:51	Error: 	"Internal Server Error" (500) after 2 retries at link localhost/jac/index.php/component/content/86-categories/comming-up?layout=blog&Itemid=535 (from localhost/jac/)
 
-HTTrack Website Copier/3.47-27 mirror complete in 3 minutes 14 seconds : 79 links scanned, 70 files written (3684744 bytes overall) [3261731 bytes received at 16813 bytes/sec], 673235 bytes transferred using HTTP compression in 6 files, ratio 28%, 1.0 requests per connection
-(3 errors, 2 warnings, 0 messages)
+HTTrack Website Copier/3.47-27 mirror complete in 16 minutes 34 seconds : 535 links scanned, 718 files written (20600614 bytes overall) [12978166 bytes received at 13056 bytes/sec], 11105812 bytes transferred using HTTP compression in 38 files, ratio 30%, 1.3 requests per connection
+(10 errors, 272 warnings, 0 messages)

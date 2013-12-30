@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">College - Ravindra Degree College</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost"/>
+	<id>http://localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles</id>
+	<updated>2013-12-30T17:37:06+05:30</updated>
+	<author>
+		<name>jac</name>
+		<email>jac@jac.com</email>
+	</author>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Administration</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles/149-administration"/>
+		<published>2013-12-28T11:31:25+05:30</published>
+		<updated>2013-12-28T11:31:25+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/infrastructure/college/89-categories/articles/149-administration</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Administration&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Administration&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Vice Principal</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/aboutus/vice-principal"/>
+		<published>2013-12-28T11:28:01+05:30</published>
+		<updated>2013-12-28T11:28:01+05:30</updated>
+		<id>http://localhost/jac/index.php/aboutus/vice-principal</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vice Principal&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Vice Principal&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Principal</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/aboutus/principal"/>
+		<published>2013-12-28T11:27:49+05:30</published>
+		<updated>2013-12-28T11:27:49+05:30</updated>
+		<id>http://localhost/jac/index.php/aboutus/principal</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Principal&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Principal&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Chairman</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/aboutus/chairman"/>
+		<published>2013-12-28T11:27:37+05:30</published>
+		<updated>2013-12-28T11:27:37+05:30</updated>
+		<id>http://localhost/jac/index.php/aboutus/chairman</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Chairman&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Chairman&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Correspondent </title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/aboutus/correspondent"/>
+		<published>2013-12-28T11:27:25+05:30</published>
+		<updated>2013-12-28T11:27:25+05:30</updated>
+		<id>http://localhost/jac/index.php/aboutus/correspondent</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Correspondent &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Correspondent &lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Chancellor</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/aboutus/chancellor"/>
+		<published>2013-12-28T11:27:14+05:30</published>
+		<updated>2013-12-28T11:27:14+05:30</updated>
+		<id>http://localhost/jac/index.php/aboutus/chancellor</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;h3 style=&quot;margin: 0px; padding: 5px 10px; font-size: 14px; color: #30729e; font-family: Arial, Helvetica, sans-serif, 'Arial Narrow'; line-height: normal;&quot;&gt;Chancellor&lt;/h3&gt;</summary>
+		<content type="html">&lt;h3 style=&quot;margin: 0px; padding: 5px 10px; font-size: 14px; color: #30729e; font-family: Arial, Helvetica, sans-serif, 'Arial Narrow'; line-height: normal;&quot;&gt;Chancellor&lt;/h3&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Office</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/infrastructure/office"/>
+		<published>2012-08-28T19:07:23+05:30</published>
+		<updated>2012-08-28T19:07:23+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/infrastructure/office</id>
+		<summary type="html">&lt;p&gt;Justo adipiscing nec sed Nam vel urna hendrerit porttitor pede platea. Massa Phasellus pretium justo habitant laoreet Nulla orci consectetuer laoreet nec. Nunc hendrerit at est Nam tincidunt eu Ut vitae enim ipsum. Mattis Nullam Phasellus purus fringilla vestibulum lacinia laoreet Ut et sed. Quisque nibh Ut Sed quis elit mi et convallis Phasellus.&lt;/p&gt;
+&lt;p&gt;Nulla consequat eget porttitor cursus Nam Donec nisl Nulla nec lacinia. Felis semper id In suscipit facilisis est quis eu tristique condimentum. Nibh adipiscing In ut augue non auctor Vestibulum convallis nunc justo. Scelerisque Vivamus Nam urna ac ligula vel auctor consectetuer risus commodo. Fusce interdum lacinia at Suspendisse sagittis sapien felis.&lt;/p&gt;
+&lt;p&gt;Elit natoque laoreet Nam nibh Mauris metus risus eget Sed tincidunt. Vel eget laoreet Vestibulum risus tempus dui porttitor Duis et vel. Interdum vel consectetuer rutrum diam In tempor cursus massa semper lacinia. Urna ipsum pede eros cursus vitae platea Vestibulum Curabitur eu nulla. Leo pretium semper tortor eros convallis Suspendisse.&lt;/p&gt;
+&lt;p&gt;Vestibulum ac ante tortor pretium eu nulla nisl accumsan Nullam fames. Pellentesque sit tortor a Ut id eu consectetuer consectetuer ut ut. Congue egestas tincidunt Suspendisse quis cursus ipsum Nam metus metus turpis. Hendrerit at mus augue leo dui et justo Phasellus nonummy aliquet. Laoreet id at sagittis elit Mauris auctor eros Nunc laoreet velit. Pellentesque nibh Sed.&lt;/p&gt;
+&lt;p&gt;Lorem Nulla Nam montes at urna ac condimentum turpis id vitae. In Maecenas Maecenas sed dolor sit fringilla Nullam quis felis montes. Gravida eros commodo Praesent et a et interdum condimentum fermentum justo. Id pellentesque quam sed accumsan ut dis Praesent sodales id feugiat. Et lacinia Sed mauris consequat Ut eros semper risus Vestibulum ante. Urna.&lt;/p&gt;
+&lt;p&gt;Metus neque est vitae id Praesent nunc tortor felis Suspendisse elit. Malesuada accumsan commodo metus a porttitor Curabitur tellus a elit ipsum. Lacinia orci mauris lacus pede Lorem adipiscing gravida hendrerit a quis. Pharetra mattis aliquam vel platea augue et consectetuer vitae Suspendisse nunc. Magnis convallis arcu urna elit laoreet Aliquam.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Justo adipiscing nec sed Nam vel urna hendrerit porttitor pede platea. Massa Phasellus pretium justo habitant laoreet Nulla orci consectetuer laoreet nec. Nunc hendrerit at est Nam tincidunt eu Ut vitae enim ipsum. Mattis Nullam Phasellus purus fringilla vestibulum lacinia laoreet Ut et sed. Quisque nibh Ut Sed quis elit mi et convallis Phasellus.&lt;/p&gt;
+&lt;p&gt;Nulla consequat eget porttitor cursus Nam Donec nisl Nulla nec lacinia. Felis semper id In suscipit facilisis est quis eu tristique condimentum. Nibh adipiscing In ut augue non auctor Vestibulum convallis nunc justo. Scelerisque Vivamus Nam urna ac ligula vel auctor consectetuer risus commodo. Fusce interdum lacinia at Suspendisse sagittis sapien felis.&lt;/p&gt;
+&lt;p&gt;Elit natoque laoreet Nam nibh Mauris metus risus eget Sed tincidunt. Vel eget laoreet Vestibulum risus tempus dui porttitor Duis et vel. Interdum vel consectetuer rutrum diam In tempor cursus massa semper lacinia. Urna ipsum pede eros cursus vitae platea Vestibulum Curabitur eu nulla. Leo pretium semper tortor eros convallis Suspendisse.&lt;/p&gt;
+&lt;p&gt;Vestibulum ac ante tortor pretium eu nulla nisl accumsan Nullam fames. Pellentesque sit tortor a Ut id eu consectetuer consectetuer ut ut. Congue egestas tincidunt Suspendisse quis cursus ipsum Nam metus metus turpis. Hendrerit at mus augue leo dui et justo Phasellus nonummy aliquet. Laoreet id at sagittis elit Mauris auctor eros Nunc laoreet velit. Pellentesque nibh Sed.&lt;/p&gt;
+&lt;p&gt;Lorem Nulla Nam montes at urna ac condimentum turpis id vitae. In Maecenas Maecenas sed dolor sit fringilla Nullam quis felis montes. Gravida eros commodo Praesent et a et interdum condimentum fermentum justo. Id pellentesque quam sed accumsan ut dis Praesent sodales id feugiat. Et lacinia Sed mauris consequat Ut eros semper risus Vestibulum ante. Urna.&lt;/p&gt;
+&lt;p&gt;Metus neque est vitae id Praesent nunc tortor felis Suspendisse elit. Malesuada accumsan commodo metus a porttitor Curabitur tellus a elit ipsum. Lacinia orci mauris lacus pede Lorem adipiscing gravida hendrerit a quis. Pharetra mattis aliquam vel platea augue et consectetuer vitae Suspendisse nunc. Magnis convallis arcu urna elit laoreet Aliquam.&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Labs</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/infrastructure/labs"/>
+		<published>2012-08-28T19:07:09+05:30</published>
+		<updated>2012-08-28T19:07:09+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/infrastructure/labs</id>
+		<summary type="html">&lt;p&gt;Justo adipiscing nec sed Nam vel urna hendrerit porttitor pede platea. Massa Phasellus pretium justo habitant laoreet Nulla orci consectetuer laoreet nec. Nunc hendrerit at est Nam tincidunt eu Ut vitae enim ipsum. Mattis Nullam Phasellus purus fringilla vestibulum lacinia laoreet Ut et sed. Quisque nibh Ut Sed quis elit mi et convallis Phasellus.&lt;/p&gt;
+&lt;p&gt;Nulla consequat eget porttitor cursus Nam Donec nisl Nulla nec lacinia. Felis semper id In suscipit facilisis est quis eu tristique condimentum. Nibh adipiscing In ut augue non auctor Vestibulum convallis nunc justo. Scelerisque Vivamus Nam urna ac ligula vel auctor consectetuer risus commodo. Fusce interdum lacinia at Suspendisse sagittis sapien felis.&lt;/p&gt;
+&lt;p&gt;Elit natoque laoreet Nam nibh Mauris metus risus eget Sed tincidunt. Vel eget laoreet Vestibulum risus tempus dui porttitor Duis et vel. Interdum vel consectetuer rutrum diam In tempor cursus massa semper lacinia. Urna ipsum pede eros cursus vitae platea Vestibulum Curabitur eu nulla. Leo pretium semper tortor eros convallis Suspendisse.&lt;/p&gt;
+&lt;p&gt;Vestibulum ac ante tortor pretium eu nulla nisl accumsan Nullam fames. Pellentesque sit tortor a Ut id eu consectetuer consectetuer ut ut. Congue egestas tincidunt Suspendisse quis cursus ipsum Nam metus metus turpis. Hendrerit at mus augue leo dui et justo Phasellus nonummy aliquet. Laoreet id at sagittis elit Mauris auctor eros Nunc laoreet velit. Pellentesque nibh Sed.&lt;/p&gt;
+&lt;p&gt;Lorem Nulla Nam montes at urna ac condimentum turpis id vitae. In Maecenas Maecenas sed dolor sit fringilla Nullam quis felis montes. Gravida eros commodo Praesent et a et interdum condimentum fermentum justo. Id pellentesque quam sed accumsan ut dis Praesent sodales id feugiat. Et lacinia Sed mauris consequat Ut eros semper risus Vestibulum ante. Urna.&lt;/p&gt;
+&lt;p&gt;Metus neque est vitae id Praesent nunc tortor felis Suspendisse elit. Malesuada accumsan commodo metus a porttitor Curabitur tellus a elit ipsum. Lacinia orci mauris lacus pede Lorem adipiscing gravida hendrerit a quis. Pharetra mattis aliquam vel platea augue et consectetuer vitae Suspendisse nunc. Magnis convallis arcu urna elit laoreet Aliquam.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Justo adipiscing nec sed Nam vel urna hendrerit porttitor pede platea. Massa Phasellus pretium justo habitant laoreet Nulla orci consectetuer laoreet nec. Nunc hendrerit at est Nam tincidunt eu Ut vitae enim ipsum. Mattis Nullam Phasellus purus fringilla vestibulum lacinia laoreet Ut et sed. Quisque nibh Ut Sed quis elit mi et convallis Phasellus.&lt;/p&gt;
+&lt;p&gt;Nulla consequat eget porttitor cursus Nam Donec nisl Nulla nec lacinia. Felis semper id In suscipit facilisis est quis eu tristique condimentum. Nibh adipiscing In ut augue non auctor Vestibulum convallis nunc justo. Scelerisque Vivamus Nam urna ac ligula vel auctor consectetuer risus commodo. Fusce interdum lacinia at Suspendisse sagittis sapien felis.&lt;/p&gt;
+&lt;p&gt;Elit natoque laoreet Nam nibh Mauris metus risus eget Sed tincidunt. Vel eget laoreet Vestibulum risus tempus dui porttitor Duis et vel. Interdum vel consectetuer rutrum diam In tempor cursus massa semper lacinia. Urna ipsum pede eros cursus vitae platea Vestibulum Curabitur eu nulla. Leo pretium semper tortor eros convallis Suspendisse.&lt;/p&gt;
+&lt;p&gt;Vestibulum ac ante tortor pretium eu nulla nisl accumsan Nullam fames. Pellentesque sit tortor a Ut id eu consectetuer consectetuer ut ut. Congue egestas tincidunt Suspendisse quis cursus ipsum Nam metus metus turpis. Hendrerit at mus augue leo dui et justo Phasellus nonummy aliquet. Laoreet id at sagittis elit Mauris auctor eros Nunc laoreet velit. Pellentesque nibh Sed.&lt;/p&gt;
+&lt;p&gt;Lorem Nulla Nam montes at urna ac condimentum turpis id vitae. In Maecenas Maecenas sed dolor sit fringilla Nullam quis felis montes. Gravida eros commodo Praesent et a et interdum condimentum fermentum justo. Id pellentesque quam sed accumsan ut dis Praesent sodales id feugiat. Et lacinia Sed mauris consequat Ut eros semper risus Vestibulum ante. Urna.&lt;/p&gt;
+&lt;p&gt;Metus neque est vitae id Praesent nunc tortor felis Suspendisse elit. Malesuada accumsan commodo metus a porttitor Curabitur tellus a elit ipsum. Lacinia orci mauris lacus pede Lorem adipiscing gravida hendrerit a quis. Pharetra mattis aliquam vel platea augue et consectetuer vitae Suspendisse nunc. Magnis convallis arcu urna elit laoreet Aliquam.&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>College</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/infrastructure/college"/>
+		<published>2012-08-28T19:07:09+05:30</published>
+		<updated>2012-08-28T19:07:09+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/infrastructure/college</id>
+		<summary type="html">&lt;p&gt;Justo adipiscing nec sed Nam vel urna hendrerit porttitor pede platea. Massa Phasellus pretium justo habitant laoreet Nulla orci consectetuer laoreet nec. Nunc hendrerit at est Nam tincidunt eu Ut vitae enim ipsum. Mattis Nullam Phasellus purus fringilla vestibulum lacinia laoreet Ut et sed. Quisque nibh Ut Sed quis elit mi et convallis Phasellus.&lt;/p&gt;
+&lt;p&gt;Nulla consequat eget porttitor cursus Nam Donec nisl Nulla nec lacinia. Felis semper id In suscipit facilisis est quis eu tristique condimentum. Nibh adipiscing In ut augue non auctor Vestibulum convallis nunc justo. Scelerisque Vivamus Nam urna ac ligula vel auctor consectetuer risus commodo. Fusce interdum lacinia at Suspendisse sagittis sapien felis.&lt;/p&gt;
+&lt;p&gt;Elit natoque laoreet Nam nibh Mauris metus risus eget Sed tincidunt. Vel eget laoreet Vestibulum risus tempus dui porttitor Duis et vel. Interdum vel consectetuer rutrum diam In tempor cursus massa semper lacinia. Urna ipsum pede eros cursus vitae platea Vestibulum Curabitur eu nulla. Leo pretium semper tortor eros convallis Suspendisse.&lt;/p&gt;
+&lt;p&gt;Vestibulum ac ante tortor pretium eu nulla nisl accumsan Nullam fames. Pellentesque sit tortor a Ut id eu consectetuer consectetuer ut ut. Congue egestas tincidunt Suspendisse quis cursus ipsum Nam metus metus turpis. Hendrerit at mus augue leo dui et justo Phasellus nonummy aliquet. Laoreet id at sagittis elit Mauris auctor eros Nunc laoreet velit. Pellentesque nibh Sed.&lt;/p&gt;
+&lt;p&gt;Lorem Nulla Nam montes at urna ac condimentum turpis id vitae. In Maecenas Maecenas sed dolor sit fringilla Nullam quis felis montes. Gravida eros commodo Praesent et a et interdum condimentum fermentum justo. Id pellentesque quam sed accumsan ut dis Praesent sodales id feugiat. Et lacinia Sed mauris consequat Ut eros semper risus Vestibulum ante. Urna.&lt;/p&gt;
+&lt;p&gt;Metus neque est vitae id Praesent nunc tortor felis Suspendisse elit. Malesuada accumsan commodo metus a porttitor Curabitur tellus a elit ipsum. Lacinia orci mauris lacus pede Lorem adipiscing gravida hendrerit a quis. Pharetra mattis aliquam vel platea augue et consectetuer vitae Suspendisse nunc. Magnis convallis arcu urna elit laoreet Aliquam.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Justo adipiscing nec sed Nam vel urna hendrerit porttitor pede platea. Massa Phasellus pretium justo habitant laoreet Nulla orci consectetuer laoreet nec. Nunc hendrerit at est Nam tincidunt eu Ut vitae enim ipsum. Mattis Nullam Phasellus purus fringilla vestibulum lacinia laoreet Ut et sed. Quisque nibh Ut Sed quis elit mi et convallis Phasellus.&lt;/p&gt;
+&lt;p&gt;Nulla consequat eget porttitor cursus Nam Donec nisl Nulla nec lacinia. Felis semper id In suscipit facilisis est quis eu tristique condimentum. Nibh adipiscing In ut augue non auctor Vestibulum convallis nunc justo. Scelerisque Vivamus Nam urna ac ligula vel auctor consectetuer risus commodo. Fusce interdum lacinia at Suspendisse sagittis sapien felis.&lt;/p&gt;
+&lt;p&gt;Elit natoque laoreet Nam nibh Mauris metus risus eget Sed tincidunt. Vel eget laoreet Vestibulum risus tempus dui porttitor Duis et vel. Interdum vel consectetuer rutrum diam In tempor cursus massa semper lacinia. Urna ipsum pede eros cursus vitae platea Vestibulum Curabitur eu nulla. Leo pretium semper tortor eros convallis Suspendisse.&lt;/p&gt;
+&lt;p&gt;Vestibulum ac ante tortor pretium eu nulla nisl accumsan Nullam fames. Pellentesque sit tortor a Ut id eu consectetuer consectetuer ut ut. Congue egestas tincidunt Suspendisse quis cursus ipsum Nam metus metus turpis. Hendrerit at mus augue leo dui et justo Phasellus nonummy aliquet. Laoreet id at sagittis elit Mauris auctor eros Nunc laoreet velit. Pellentesque nibh Sed.&lt;/p&gt;
+&lt;p&gt;Lorem Nulla Nam montes at urna ac condimentum turpis id vitae. In Maecenas Maecenas sed dolor sit fringilla Nullam quis felis montes. Gravida eros commodo Praesent et a et interdum condimentum fermentum justo. Id pellentesque quam sed accumsan ut dis Praesent sodales id feugiat. Et lacinia Sed mauris consequat Ut eros semper risus Vestibulum ante. Urna.&lt;/p&gt;
+&lt;p&gt;Metus neque est vitae id Praesent nunc tortor felis Suspendisse elit. Malesuada accumsan commodo metus a porttitor Curabitur tellus a elit ipsum. Lacinia orci mauris lacus pede Lorem adipiscing gravida hendrerit a quis. Pharetra mattis aliquam vel platea augue et consectetuer vitae Suspendisse nunc. Magnis convallis arcu urna elit laoreet Aliquam.&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+	<entry>
+		<title>Library</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/gallery/infrastructure/library"/>
+		<published>2012-08-28T19:06:51+05:30</published>
+		<updated>2012-08-28T19:06:51+05:30</updated>
+		<id>http://localhost/jac/index.php/gallery/infrastructure/library</id>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://uimbtc.org.in/wp-content/uploads/2013/08/College-Library.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;387&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://uimbtc.org.in/wp-content/uploads/2013/08/College-Library.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;387&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Articles" />
+	</entry>
+</feed>

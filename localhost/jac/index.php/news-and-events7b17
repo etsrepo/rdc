@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">News and Events - Ravindra Degree College</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost"/>
+	<id>http://localhost/jac/index.php/news-and-events</id>
+	<updated>2013-12-30T17:29:37+05:30</updated>
+	<author>
+		<name>jac</name>
+		<email>jac@jac.com</email>
+	</author>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/jac/index.php/news-and-events?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Convocation</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/news-and-events/157-convocation"/>
+		<published>2013-12-28T16:47:26+05:30</published>
+		<updated>2013-12-28T16:47:26+05:30</updated>
+		<id>http://localhost/jac/index.php/news-and-events/157-convocation</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;&lt;img src=&quot;images/convocation.jpg&quot; alt=&quot;&quot; width=&quot;244&quot; height=&quot;224&quot; /&gt;This is an event where the students are given their bachelors degree formally. It is usually conducted in the month of July. They are invited through their college e-mail IDs. In some universities for example, the term “Convocation” refers specifically to the ent&lt;/span&gt;irety of the alumni of the university, which function as one of the university’s representative bodies.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;&lt;img src=&quot;images/convocation.jpg&quot; alt=&quot;&quot; width=&quot;244&quot; height=&quot;224&quot; /&gt;This is an event where the students are given their bachelors degree formally. It is usually conducted in the month of July. They are invited through their college e-mail IDs. In some universities for example, the term “Convocation” refers specifically to the ent&lt;/span&gt;irety of the alumni of the university, which function as one of the university’s representative bodies.&lt;/p&gt;</content>
+		<category term="News and Events" />
+	</entry>
+	<entry>
+		<title>Marvelous Electronic Ventura - 2K13</title>
+		<link rel="alternate" type="text/html" href="http://localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13"/>
+		<published>2013-12-28T16:39:20+05:30</published>
+		<updated>2013-12-28T16:39:20+05:30</updated>
+		<id>http://localhost/jac/index.php/news-and-events/156-marvelous-electronic-ventura-2k13</id>
+		<author>
+			<name>Super User</name>
+			<email>jac@jac.com</email>
+		</author>
+		<summary type="html">&lt;ul style=&quot;font-family: Arial, Helvetica, sans-serif; text-align: justify; color: #003333; font-size: 13px; line-height: 25px; position: absolute; margin: 0px; padding: 0px; top: 0px;&quot;&gt;
+&lt;li style=&quot;margin: 0px; padding: 0px; height: 295px;&quot;&gt;&lt;img src=&quot;images/services_front.jpg&quot; alt=&quot;&quot; width=&quot;159&quot; height=&quot;106&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;margin: 0px; padding: 0px; height: 295px;&quot;&gt;Marvelous Electronic Ventura - 2K13 &lt;span style=&quot;line-height: 23px;&quot;&gt;The Department of E.C.E has organized a 2-hours program on &quot;Electronic Ventura-2K13&quot; on 22nd July, 2013(Monday). The resource person is Ms. S. Fouzia Sultana, Asst. Professor, dept of ECE, RCEW.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+		<content type="html">&lt;ul style=&quot;font-family: Arial, Helvetica, sans-serif; text-align: justify; color: #003333; font-size: 13px; line-height: 25px; position: absolute; margin: 0px; padding: 0px; top: 0px;&quot;&gt;
+&lt;li style=&quot;margin: 0px; padding: 0px; height: 295px;&quot;&gt;&lt;img src=&quot;images/services_front.jpg&quot; alt=&quot;&quot; width=&quot;159&quot; height=&quot;106&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;margin: 0px; padding: 0px; height: 295px;&quot;&gt;Marvelous Electronic Ventura - 2K13 &lt;span style=&quot;line-height: 23px;&quot;&gt;The Department of E.C.E has organized a 2-hours program on &quot;Electronic Ventura-2K13&quot; on 22nd July, 2013(Monday). The resource person is Ms. S. Fouzia Sultana, Asst. Professor, dept of ECE, RCEW.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+		<category term="News and Events" />
+	</entry>
+</feed>
