@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/	FALSE	1999999999	37d244d72e75bc81f20a18ea5fcb5d08	pc92kefuuu6097g9l8s309jng7
+localhost	TRUE	/	FALSE	1999999999	ja_university_tpl	ja_university
+www.evatechsoft.com	TRUE	/	FALSE	1999999999	GEAR	local-527817425973ca81f6000888
+
